@@ -7,8 +7,7 @@ function Home() {
     <div>
         <div><VideoPlayer video_url="" format=""/></div>
         <div>
-            <SensorData />
-            <div>fjkdhakfkh</div>
+            <SensorData interval="5" />
         </div>
     </div>
   )
