@@ -52,11 +52,11 @@ To learn Django, check out the [Django documentation](https://www.djangoproject.
 
 To learn Django Restframework check out the [Django Restframework documentation](https://www.django-rest-framework.org/)
 
-# Getting Started with the mock rasperry 
+# Getting Started with the mock raspberry 
 
 ## Available Scripts
 
-In the frontend project directory, you can run:
+In the mock_raspberry project directory, you can run:
 
 ### `python mock_script.py`
 
